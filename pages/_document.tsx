@@ -5,7 +5,7 @@ export default function Document() {
   return (
     <Html lang="en">
       <Head />
-      <script src="https://www.googletagmanager.com/gtag/js?id=G-9SW98FYM4Z"></script>
+      <Script src="https://www.googletagmanager.com/gtag/js?id=G-9SW98FYM4Z" />
       <Script id="google-analytics" strategy="beforeInteractive">
         {`
           window.dataLayer = window.dataLayer || [];
